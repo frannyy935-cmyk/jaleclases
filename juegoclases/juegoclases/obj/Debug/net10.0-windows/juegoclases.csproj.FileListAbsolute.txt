@@ -1,0 +1,17 @@
+C:\Users\sanch\source\repos\juegoclases\juegoclases\bin\Debug\net10.0-windows\juegoclases.exe
+C:\Users\sanch\source\repos\juegoclases\juegoclases\bin\Debug\net10.0-windows\juegoclases.deps.json
+C:\Users\sanch\source\repos\juegoclases\juegoclases\bin\Debug\net10.0-windows\juegoclases.runtimeconfig.json
+C:\Users\sanch\source\repos\juegoclases\juegoclases\bin\Debug\net10.0-windows\juegoclases.dll
+C:\Users\sanch\source\repos\juegoclases\juegoclases\bin\Debug\net10.0-windows\juegoclases.pdb
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.csproj.GenerateResource.cache
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.AssemblyInfo.cs
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.dll
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\refint\juegoclases.dll
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.pdb
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.genruntimeconfig.cache
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\ref\juegoclases.dll
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegocla.47000C7B.Up2Date
+C:\Users\sanch\source\repos\juegoclases\juegoclases\obj\Debug\net10.0-windows\juegoclases.txtNombre1.resources
